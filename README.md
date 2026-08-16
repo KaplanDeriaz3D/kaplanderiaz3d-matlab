@@ -10,7 +10,7 @@ Built as part of a Master's Thesis (TFM) on hydraulic machinery design. See [kap
 ## Requirements
 
 - MATLAB R2021a or later (App Designer)
-- No additional toolboxes required *(edita esto si en realidad usas alguna toolbox extra, como Curve Fitting Toolbox)*
+- No additional toolboxes required
 
 ## How to run
 
