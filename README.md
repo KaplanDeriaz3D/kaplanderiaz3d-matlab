@@ -1,6 +1,6 @@
 # KaplanDeriaz3D — MATLAB App
 
-MATLAB App Designer application for designing runner blades of **Kaplan** (axial-flow) and **Deriaz** (diagonal-flow) hydraulic turbines, generating NACA-based hydrofoil geometry with 3D visualization and CAD/Excel export.
+MATLAB App Designer application for designing runner blades of **Kaplan** (axial-flow) and **Deriaz** (diagonal-flow) hydraulic turbines, generating hydrofoil geometry with 3D visualization and CAD/Excel export.
 
 <img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/efcd0efd-2a20-4973-a46b-0013c54a75a6" />
 
