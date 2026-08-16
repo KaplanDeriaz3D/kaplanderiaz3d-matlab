@@ -14,6 +14,12 @@ Built as part of a Master's Thesis (TFM) on hydraulic machinery design. See [kap
 
 ## How to run
 
+**Option A — Install as a MATLAB App (recommended)**
+1. Download `KaplanDeriaz3D.mlappinstall` from this repository (or from the [latest release](https://github.com/KaplanDeriaz3D/kaplanderiaz3d-matlab/releases)).
+2. Double-click the file — MATLAB will install it automatically under the **APPS** tab.
+3. Open MATLAB, go to the **APPS** tab, and launch **KaplanDeriaz3D**.
+
+**Option B — Run from source**
 1. Clone or download this repository.
 2. Open MATLAB and navigate to the downloaded folder.
 3. Run `KaplanDeriaz3D_Airfoil_Version_Professional.m`, or open it in App Designer and press **Run**.
